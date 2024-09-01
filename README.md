@@ -20,7 +20,7 @@ Same jwt process as above is needed
 
 ## Example 
 
-1. http://localhost:3000/users\
+1. http://localhost:3000/users
     Create new POST request, example body:      
     {
         "username": "katerina"
@@ -29,7 +29,7 @@ Same jwt process as above is needed
     }\
     Keep the token returned upon retrieval for example "example-token"
 
-2.  http://localhost:3000/company\
+2.  http://localhost:3000/company
     Create new POST request, example body:      
     {
         "name": "google",
